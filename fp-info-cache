@@ -1,4 +1,4 @@
-20586761452990149
+20588431773225520
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6327,6 +6327,13 @@ pin header 4-pin CPU fan
 0
 4
 4
+Connector
+Flex_Tape_12x0.635
+
+
+0
+12
+12
 Connector
 GB042-34S-H10
 http://www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF
