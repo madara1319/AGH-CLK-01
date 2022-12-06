@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>D:\Projekty\AGH-CLK-01\Hardware\AGH-CLK-01\AGH-CLK-01-main\DesignLab.kicad_sch</source>
-    <date>12/6/2022 2:04:23 PM</date>
+    <source>D:\Projekty\AGH-CLK-01\Hardware\AGH-CLK-01\DesignLab.kicad_sch</source>
+    <date>12/6/2022 7:05:09 PM</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -421,7 +421,7 @@
     </comp>
     <comp ref="U4">
       <value>TP4056</value>
-      <footprint>SOP127P600X175-9N</footprint>
+      <footprint>Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm</footprint>
       <fields>
         <field name="MANUFACTURER">NanJing Top Power ASIC Corp.</field>
         <field name="MAXIMUM_PACKAGE_HEIGHT">1.75mm</field>
@@ -964,6 +964,7 @@
       <node ref="U2" pin="7" pinfunction="GND" pintype="passive"/>
       <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="EP" pintype="passive"/>
       <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
@@ -1089,9 +1090,6 @@
     </net>
     <net code="50" name="unconnected-(U4-Pad6)">
       <node ref="U4" pin="6" pinfunction="~{STDBY}" pintype="output+no_connect"/>
-    </net>
-    <net code="51" name="unconnected-(U4-Pad9)">
-      <node ref="U4" pin="9" pinfunction="EP" pintype="passive+no_connect"/>
     </net>
   </nets>
 </export>
