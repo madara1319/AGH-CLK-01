@@ -3,7 +3,8 @@
 Do ustalenia w tym tygodniu co zakupujemy  
 
 ## N-Mosfet Conteo_pro  
-[N-Mosfet](https://allegro.pl/oferta/irlml2060-60v-1-2a-n-mosfet-1-25w-sot-23-e1903-7875509949) **(MM) ok**
+[N-Mosfet](https://allegro.pl/oferta/irlml2060-60v-1-2a-n-mosfet-1-25w-sot-23-e1903-7875509949) 
+https://allegro.pl/oferta/tranzystor-lge2300-n-mosfet-4a-20v-sot23-x10szt-8729061588 **(MM) electroniksc**
 ## P-Mosfet Elektroniksc  
 [P-Mosfet](https://allegro.pl/oferta/irlml6402-sot23-p-channel-si2301-kpl-10szt-12848211828)  **(MM) ok**
 ## Kwarc Elektoniksc 
@@ -13,13 +14,15 @@ Kwarc inna firma
 Wymiar czestotliwosc okej i 4 piny  
 [Rezonator kwarcowy](https://allegro.pl/oferta/rezonator-kwarcowy-smd-32-768khz-ndk-1szt-a529-6692482864)  **(MM) Nie ma sensu brać z innej firmy skoro mamy tamten**
 ## Gniazdo usb Conteo_pro 
-[Gniazdo usb b](https://allegro.pl/oferta/mx-105017-0001-gniazdo-usb-b-micro-smt-5pin-12054224486)  **(MM) Myślę, że ok. Potwierdzę jutro**
+[Gniazdo usb b](https://allegro.pl/oferta/mx-105017-0001-gniazdo-usb-b-micro-smt-5pin-12054224486) 
+https://allegro.pl/oferta/gniazdo-micro-usb-5pin-pcb-10118194-0001lf-c-x2szt-9531914757 **(MM) gniazdo z electrosc**
 ## Modul do ladowarki Elektroniksc
 [tp4056 do ladowarki lipo](https://allegro.pl/oferta/m5137-ladowarka-akumulatorow-li-ion-to4056-8863674707) Tu od elektronicsc z allegro co mosfet jeden wczesniej link ale trzeba by odlutowywac   
 [tp4056 do ladowarki lipo](https://allegro.pl/oferta/tp4054-42-kontroler-ladowania-li-lon-sot23-5-7953080285) Tez od Elektroniksc ale to tp4054 i byloby bez odlutowywania  **(MM) Bardzo dobry pomysł**
 
 ## Stabilizator napiecia Conteo_pro
 [stabilizator napięcia](https://allegro.pl/oferta/spx5205m5l3-3tr-stabilizator-napiecia-ldo-3-3v-12409161294?fbclid=IwAR1b71S7HsXbepYxkrcGBAuwzsbn1yQ71cF78s29FptoZ9Dv9-lpUvMwqxk) **(MM) ok**
+https://allegro.pl/oferta/stabilizator-ap2121n-3-3-ef8-sot23-3-3-3v-x4szt-9440621435 **(MM) jednak lepiej ten**
 
 ## Bufor inna firma
 [Bufor](https://allegro.pl/oferta/sn74auc2g34dbvr-x4szt-12473535404) Bufor inny niz SN74AUC2G34DBVR ale podobny do 74AUC2G34 tylko nie jest ani od elektronicsc ani conteo_pro  
