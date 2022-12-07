@@ -3,12 +3,12 @@
 Do ustalenia w tym tygodniu co zakupujemy  
 
 ## N-Mosfet Conteo_pro  
-[N-Mosfet]((https://allegro.pl/oferta/irlml2060-60v-1-2a-n-mosfet-1-25w-sot-23-e1903-7875509949) 
+[N-Mosfet](https://allegro.pl/oferta/irlml2060-60v-1-2a-n-mosfet-1-25w-sot-23-e1903-7875509949) 
 ## P-Mosfet Elektroniksc  
 [P-Mosfet](https://allegro.pl/oferta/irlml6402-sot23-p-channel-si2301-kpl-10szt-12848211828)  
 ## Kwarc Elektoniksc 
 [Rezonator kwarcowy](https://allegro.pl/oferta/kwarc-32-768khz-smd-abs07-32-768khz-t-12-5pf-x2szt-12064929900)  
-## Kwarc inna firma  
+Kwarc inna firma  
 Wymiar czestotliwosc okej i 4 piny  
 [Rezonator kwarcowy](https://allegro.pl/oferta/rezonator-kwarcowy-smd-32-768khz-ndk-1szt-a529-6692482864)  
 ## Gniazdo usb Conteo_pro 
