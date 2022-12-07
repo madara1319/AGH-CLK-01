@@ -24,6 +24,7 @@ Wymiar czestotliwosc okej i 4 piny
 [Bufor](https://allegro.pl/oferta/sn74auc2g34dbvr-x4szt-12473535404) Bufor inny niz SN74AUC2G34DBVR ale podobny do 74AUC2G34 tylko nie jest ani od elektronicsc ani conteo_pro  
 [Bufor](https://allegro.pl/oferta/nc7wz16p6x-smd-s-c-88-dual-buffer-9958671515)Inny bufor ale dual Buffer na CMOS [karta katalogowa](https://www.mouser.com/datasheet/2/308/NC7WZ16-1301496.pdf)  
 [Bufor ale jakis inny ale od elektroniksc](https://allegro.pl/oferta/74lvc1g125gw-bufor-tssop5-x5szt-12080132627) nie wiem czy taki by byl bo nie dual buffer [karta katalogowa](https://www.mouser.pl/datasheet/2/916/74LVC1G125-1512149.pdf)  **ten będzie najtańszy**
+
 [Bufor ale tez inny ale od conteo_pro](https://allegro.pl/oferta/m74vhc1gt125df2g-cyfrowy-3-stanowy-bufor-sc88a-11849828081) tez moze nie pasowac 3stanowy [karta katalogowa](https://www.mouser.com/datasheet/2/308/MC74VHC1GT125-D-78788.pdf)  
 ## Przycisk Elektroniksc
 [Przycisk](https://allegro.pl/oferta/int1188f15a-mikroprzycisk-3-1x3-1-1-5mm-smd-7300457422)
