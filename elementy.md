@@ -33,7 +33,10 @@ Przycisk inny ale moze by był?
 [stm32 inny](https://allegro.pl/oferta/stm32g031j6m6-mikrokontroler-arm-32kb-64mhz-sop-8-11824556072) inny stm32 ale od Conteo_pro
 
 ## Connector_wire_soldier_wire  
-Tu do konca nie wiem jaki to drut ma byc
+Tu do konca nie wiem jaki to drut ma byc  
+
+![Cena za stmy](https://github.com/madara1319/AGH-CLK-01/blob/main/screen1.png)
+![Cena za pozostale elementy](https://github.com/madara1319/AGH-CLK-01/blob/main/screen2.png)
 
 
 
