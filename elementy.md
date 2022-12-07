@@ -35,7 +35,9 @@ Przycisk inny ale moze by był?
 ## Connector_wire_soldier_wire  
 Tu do konca nie wiem jaki to drut ma byc  
 
+## Cena za stmy
 ![Cena za stmy](https://github.com/madara1319/AGH-CLK-01/blob/main/screen1.png)
+## Cena za pozostale elementy
 ![Cena za pozostale elementy](https://github.com/madara1319/AGH-CLK-01/blob/main/screen2.png)
 
 
