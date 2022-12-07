@@ -29,7 +29,9 @@ Wymiar czestotliwosc okej i 4 piny
 [Bufor ale tez inny ale od conteo_pro](https://allegro.pl/oferta/m74vhc1gt125df2g-cyfrowy-3-stanowy-bufor-sc88a-11849828081) tez moze nie pasowac 3stanowy [karta katalogowa](https://www.mouser.com/datasheet/2/308/MC74VHC1GT125-D-78788.pdf)  
 ## Przycisk Elektroniksc
 [Przycisk](https://allegro.pl/oferta/int1188f15a-mikroprzycisk-3-1x3-1-1-5mm-smd-7300457422)
-Przycisk inny ale moze by był?  **(MM) hmm... powinien być raczej boczny a nie z góry Conteno ma w ofercie taki: https://allegro.pl/oferta/kss341glfs-mikroprzelacznik-tact-spst-no-smt-11768921473** 
+Przycisk inny ale moze by był?  **(MM) hmm... powinien być raczej boczny a nie z góry Conteno ma w ofercie taki: https://allegro.pl/oferta/kss341glfs-mikroprzelacznik-tact-spst-no-smt-11768921473**  
+**A tu jest nawet lepszy, bo w komplecie 10 sztuk https://allegro.pl/oferta/mikroprzycisk-4-7x1-9mm-3-5mm-smd-off-on-x10szt-10724789402**
+
 ## STM32 inna firma
 [Zakladany stm32](https://allegrolokalnie.pl/oferta/mikrokontroler-stm32l051k6t6)  **(MM) Przy smarcie zakup 3 procków wystarczy, żeby mieć darmową dostawę, więc to jak najbardziej może być zakupione u kogoś innego**
 
