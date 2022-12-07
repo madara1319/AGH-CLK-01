@@ -31,10 +31,11 @@ Wymiar czestotliwosc okej i 4 piny
 Przycisk inny ale moze by był?  **hmm... powinien być raczej boczny a nie z góry Conteno ma w ofercie taki: https://allegro.pl/oferta/kss341glfs-mikroprzelacznik-tact-spst-no-smt-11768921473** 
 ## STM32 inna firma
 [Zakladany stm32](https://allegrolokalnie.pl/oferta/mikrokontroler-stm32l051k6t6)  **Przy smarcie zakup 3 procków wystarczy, żeby mieć darmową dostawę, więc to jak najbardziej może być zakupione u kogoś innego**
+
 [stm32 inny](https://allegro.pl/oferta/stm32g031j6m6-mikrokontroler-arm-32kb-64mhz-sop-8-11824556072) inny stm32 ale od Conteo_pro **Zdecydowanie zbyt mało pinów xD**
 
 ## Connector_wire_soldier_wire  
-Tu do konca nie wiem jaki to drut ma byc  **aaa... rzeczywiście element THT. Chodziło mi tutaj o NTC 10k do kontroli temperatury baterii https://allegro.pl/oferta/termistor-ntc110-10k-1-3435k-pomiarowy-x5szt-12795393180 natomiast jeśli zdecydujemy się na ten alternatywny kontroler ładowania baterii to tam nie ma pomiaru temperatury i wtedy NTC też nie potrzebujemy **
+Tu do konca nie wiem jaki to drut ma byc  **aaa... rzeczywiście element THT. Chodziło mi tutaj o NTC 10k do kontroli temperatury baterii https://allegro.pl/oferta/termistor-ntc110-10k-1-3435k-pomiarowy-x5szt-12795393180 natomiast jeśli zdecydujemy się na ten alternatywny kontroler ładowania baterii to tam nie ma pomiaru temperatury i wtedy NTC też nie potrzebujemy**
 
 ## Cena za stmy
 ![Cena za stmy](https://github.com/madara1319/AGH-CLK-01/blob/main/screen1.png)
