@@ -1,4 +1,4 @@
-20588431773225520
+20590102279328068
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1552,6 +1552,13 @@ Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_li
 SPST Tactile Switch
 0
 4
+2
+Button_Switch_SMD
+SW_SPST_TSS02-035NT
+Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, with Boss
+Tactile Switch
+0
+2
 2
 Button_Switch_THT
 KSA_Tactile_SPST

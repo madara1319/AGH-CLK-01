@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\Projekty\AGH-CLK-01\Hardware\AGH-CLK-01\DesignLab.kicad_sch</source>
-    <date>12/8/2022 11:30:57 AM</date>
+    <date>12/8/2022 4:23:36 PM</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -337,7 +337,7 @@
     </comp>
     <comp ref="SW1">
       <value>SW_Push</value>
-      <footprint>Button_Switch_SMD:SW_SPST_B3U-3000P-B</footprint>
+      <footprint>Button_Switch_SMD:SW_SPST_TSS02-035NT</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DesignLab.kicad_sch"/>
@@ -346,7 +346,7 @@
     </comp>
     <comp ref="SW2">
       <value>SW_Push</value>
-      <footprint>Button_Switch_SMD:SW_SPST_B3U-3000P-B</footprint>
+      <footprint>Button_Switch_SMD:SW_SPST_TSS02-035NT</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DesignLab.kicad_sch"/>
@@ -403,13 +403,13 @@
       <tstamps>1238bc18-64ed-4121-bce3-55c2198f0682</tstamps>
     </comp>
     <comp ref="Y1">
-      <value>Crystal_GND24</value>
+      <value>Crystal</value>
       <footprint>Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</footprint>
-      <libsource lib="Device" part="Crystal_GND23" description="Four pin crystal, GND on pins 2 and 3"/>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DesignLab.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>540a6a7d-9a27-4246-8c4b-dbf4855c9dc5</tstamps>
+      <tstamps>305c0323-ef37-493b-952c-0b934343713d</tstamps>
     </comp>
   </components>
   <libparts>
@@ -561,22 +561,20 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="Crystal_GND23">
-      <description>Four pin crystal, GND on pins 2 and 3</description>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
       <docs>~</docs>
       <footprints>
         <fp>Crystal*</fp>
       </footprints>
       <fields>
         <field name="Reference">Y</field>
-        <field name="Value">Crystal_GND23</field>
+        <field name="Value">Crystal</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
         <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-        <pin num="4" name="4" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Device" part="R">
@@ -840,7 +838,7 @@
     <net code="13" name="/RTC_OSC_IN">
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="PC14" pintype="bidirectional"/>
-      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="14" name="/RTC_OSC_OUT">
       <node ref="C4" pin="1" pintype="passive"/>
@@ -912,8 +910,6 @@
       <node ref="U4" pin="1" pintype="input"/>
       <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
-      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="22" name="Net-(D1-Pad3)">
       <node ref="D1" pin="3" pintype="passive"/>
