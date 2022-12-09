@@ -366,7 +366,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "specctra_dsn": "",
+      "specctra_dsn": "DesignLab.dsn",
       "step": "",
       "vrml": ""
     },
