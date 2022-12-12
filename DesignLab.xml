@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\Projekty\AGH-CLK-01\Hardware\AGH-CLK-01\DesignLab.kicad_sch</source>
-    <date>12/8/2022 4:23:36 PM</date>
+    <date>12/12/2022 12:11:36 PM</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -79,6 +79,15 @@
       <tstamps>631da265-74d6-4080-b865-a481e435e0c6</tstamps>
     </comp>
     <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DesignLab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8c89331-e886-48df-bf85-cd84cb567949</tstamps>
+    </comp>
+    <comp ref="C8">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -87,7 +96,25 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0e750977-56ff-4d79-8add-2723f3bd7039</tstamps>
     </comp>
-    <comp ref="C8">
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DesignLab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5ebd2d0-d2f9-4cd3-9d76-40e552f0e169</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DesignLab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c312018d-8823-4d54-a3d0-bd1b8ba0fe54</tstamps>
+    </comp>
+    <comp ref="C11">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -96,18 +123,18 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ef35887f-bf5e-402c-b922-16ba6eb7e87e</tstamps>
     </comp>
-    <comp ref="C9">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DesignLab.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>45d69b6d-7074-4208-96d7-9aab54265818</tstamps>
     </comp>
-    <comp ref="C10">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DesignLab.kicad_sch"/>
@@ -134,9 +161,45 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f1e697db-aad6-46b1-99cd-03940a1819bd</tstamps>
     </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DesignLab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13d25dcc-9624-4757-9940-c27cd2ba97c8</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DesignLab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd567d96-aa73-4cbf-8eee-eb53e5d77225</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DesignLab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f995b612-bb1a-4c0d-bd59-46af4431e522</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DesignLab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>370baeb4-a9a1-4850-b97f-16b5a5d32253</tstamps>
+    </comp>
     <comp ref="J1">
       <value>Conn_01x06_Male</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DesignLab.kicad_sch"/>
@@ -658,6 +721,18 @@
         <pin num="32" name="VSS" type="power_in"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
     <libpart lib="Regulator_Linear" part="AP2127N-3.3">
       <description>300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23 package</description>
       <docs>https://www.diodes.com/assets/Datasheets/AP2127.pdf</docs>
@@ -766,6 +841,9 @@
     <library logical="MCU_ST_STM32L0">
       <uri>D:\Programy\Zainstalowane\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM32L0.kicad_sym</uri>
     </library>
+    <library logical="Mechanical">
+      <uri>D:\Programy\Zainstalowane\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
     <library logical="Regulator_Linear">
       <uri>D:\Programy\Zainstalowane\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
     </library>
@@ -781,7 +859,7 @@
   </libraries>
   <nets>
     <net code="1" name="+5V">
-      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
       <node ref="J2" pin="1" pinfunction="VBUS" pintype="power_out"/>
       <node ref="U5" pin="4" pinfunction="VCC" pintype="power_in"/>
     </net>
@@ -854,13 +932,13 @@
       <node ref="U1" pin="23" pinfunction="PA13" pintype="bidirectional"/>
     </net>
     <net code="17" name="/SW_1">
-      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="26" pinfunction="PB3" pintype="bidirectional"/>
     </net>
     <net code="18" name="/SW_2">
-      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="25" pinfunction="PA15" pintype="bidirectional"/>
@@ -875,7 +953,11 @@
     </net>
     <net code="21" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
@@ -965,6 +1047,8 @@
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
       <node ref="D1" pin="2" pintype="passive"/>
       <node ref="D2" pin="2" pintype="passive"/>
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
